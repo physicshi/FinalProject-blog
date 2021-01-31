@@ -1,0 +1,17 @@
+.app {
+  background-color: #f4f5f5;
+  min-height: 100vh;
+
+  .content {
+    margin: 0 auto;
+    max-width: 680px;
+  }
+
+  &[mode='edit'] {
+    background-color: #fff;
+
+    .content {
+      max-width: 100%;
+    }
+  }
+}
