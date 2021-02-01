@@ -11,7 +11,7 @@ yarn add react-calendar-heatmap react-tooltip
 
 ~~观摩了源码之后，有一些改进的想法，我也要开始造轮子~~
 
-然后时间树部分用的material UI
+然后时间轴部分用的material UI
 
 ```
 yarn add @material-ui/core @material-ui/lab @material-ui/icons
